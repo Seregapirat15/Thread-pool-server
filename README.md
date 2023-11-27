@@ -1,7 +1,7 @@
 # group13-var6
-thread pool server
-Nomokonov Vladislav IU5-13B
-Электронная почта:  exxorr29@gmail.com
+thread pool server  
+Nomokonov Vladislav IU5-13B  
+Электронная почта:  exxorr29@gmail.com  
 
 ## Техническое задание(ТЗ) на создание сервера с тред-пулом 
 ### Функциональность:  
